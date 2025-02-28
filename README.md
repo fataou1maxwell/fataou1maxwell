@@ -28,8 +28,8 @@
   - [Data Science Methodologies by IBM](https://www.credly.com/badges/b4811882-f87a-452b-ae48-d56357c9ea4e/public_url)
   - [Data Science Tools by IBM](https://www.credly.com/badges/9a92fa13-cf32-46b5-b9d0-d92751ec1eb4/public_url)
   - [Python for Data Science by IBM](https://www.credly.com/badges/b6c68daa-7c1b-4946-931c-abf1c03d67a8/public_url)
+  - [Machine Learning with Python by IBM](https://www.credly.com/badges/9aeba3d4-7245-4b3e-bcb3-24eb34bb4115/public_url)
     
-  - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
