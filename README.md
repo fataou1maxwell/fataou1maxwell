@@ -32,6 +32,7 @@
   - [Introduction to Computers and Operating Systems and Security, with Microsoft](https://coursera.org/share/255657aa2cbf7d86bebb3edccf7d995b)
   - [Introduction to Networking and Cloud Computing, with Microsoft](https://coursera.org/share/7db0b7517a5142bfda05d50c9100b181)
   - [Security_and_Privacy_By_Design (Technical), with IBM](https://yourlearning.ibm.com/certificate/share/fa4fb5fce5ewogICJvYmplY3RJZCIgOiAiUExBTi0wRDFFNjZFQUM0NkIiLAogICJsZWFybmVyQ05VTSIgOiAiN0o0NzI1ODk3IiwKICAib2JqZWN0VHlwZSIgOiAiQUNUSVZJVFkiCn08bc27ca8cb-10)
+[![Image](https://github.com/fataou1maxwell/AWS-DevSecOps-Project-Lab/blob/main/aws-eks%20system.png "Security and Privacy by Design (Technical), with IBM")]()
   - Certificates
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
