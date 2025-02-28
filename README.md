@@ -14,12 +14,13 @@
 - <b>Project Domain Name 2</b>
   - [Title of Project 1 of Domain 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass) <b><i>(More details)</b></i>
 
-<h2>📺 Professional Certifications</h2>
+<h2>📺 Professional Certifications and Training</h2>
 
 - <b>Cloud Computing Certifications</b>
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
 - <b>Cybersecurity Certifications</b>
   - [Title of Cybersecurity Certification 1](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url) <b><i>(More details)</b></i>
+
 
 <h2>📺 YouTube Videos</h2>
 
