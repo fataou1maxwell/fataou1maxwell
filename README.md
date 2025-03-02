@@ -116,7 +116,9 @@ To show top contributed repo:
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Maxwell-1336/33626559121F9A8C?sharingId=E890E6403FA2CECD)
 
 ### Professional Training & Courses</b>
+([See my LinkedIn page here <-- ](https://www.linkedin.com/in/fataou-maxwell-o/))
 
+<!--
   - [Security and Privacy by Design Foundations, with IBM](https://www.credly.com/badges/c3c42acc-f755-440e-87ae-1c8ec1e076f5/public_url)
   - [Big Data Foundations, with IBM](https://www.credly.com/badges/2f1f7370-73d2-4c57-80e3-71f856374344/public_url)
   - [Data Science Methodologies, with IBM](https://www.credly.com/badges/b4811882-f87a-452b-ae48-d56357c9ea4e/public_url)
@@ -137,6 +139,7 @@ To show top contributed repo:
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
+-->
 
 <!--
 To post Youtube videos,
