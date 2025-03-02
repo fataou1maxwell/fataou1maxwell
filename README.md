@@ -1,8 +1,8 @@
 # 👋 Hi, I am Fataou!
 
 - 🧑🏾‍💻 SRE and a Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
-- 🎓 Studied Mathematics, Economics & Econometrics, and Information Technology (IT)
-- 🔭 Currently working on my PhD in IT<br/>
+- 🎓 Studied Mathematics, Economics & Econometrics, and IT
+- 🔭 Currently working with IBM and completing my PhD in IT<br/>
 - 🌱 Currently learning ...<br/>
 - 👯 I’m looking to collaborate on ...<br/>
 - ⚡ Fun fact: ...<br/>
