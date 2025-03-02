@@ -15,7 +15,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fataou-maxwell-o/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BestOpportunitiesToRise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxwell.fataou@gmail.com) 
 
-# 💻 Tech Stack
+---
+
+### 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
@@ -81,9 +83,10 @@ To show top contributed repo:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Projects
-
-### 👨‍💻 SRE, Cloud, and DevOps/DevSecOps Projects
+### Projects
+<!--
+#### 👨‍💻 SRE, Cloud, and DevOps/DevSecOps Projects
+-->
 
 - [Project 1](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass)
 - [Project 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass)
@@ -97,9 +100,9 @@ To show top contributed repo:
   - [Title of Project 1 of Domain 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass) <b><i>(More details)</b></i>
 -->
 
-# 📺 Education and Training
+### 📺 Education and Training
 
-### Education
+#### Education
 
 - [PhD in Information Technology (In progress)](https://github.com/fataou1maxwell)
 - [Master's degree in Mathematics)](https://github.com/fataou1maxwell)
@@ -108,7 +111,7 @@ To show top contributed repo:
 - [Bachelor's degree in Economics](https://github.com/fataou1maxwell)
 
   
-### Professional Certifications</b>
+#### Professional Certifications</b>
 
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cc056dd8-181e-4e94-8b68-b0afa7474432/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
@@ -116,7 +119,7 @@ To show top contributed repo:
   - [Cloud Digital Leader Certification, with Google Cloud](https://www.credly.com/badges/46c1d021-045e-4ae6-a47a-837b1e755ecd/public_url)
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Maxwell-1336/33626559121F9A8C?sharingId=E890E6403FA2CECD)
 
-### Professional Training & Courses</b>
+#### Professional Training & Courses</b>
 ([See my LinkedIn page here <-- ](https://www.linkedin.com/in/fataou-maxwell-o/))
 
 <!--
