@@ -3,11 +3,10 @@
 - 🧑🏾‍💻 SRE and a Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
 - 🎓 Studied Mathematics, Economics & Econometrics, and IT
 - 🔭 Currently working with IBM and completing my PhD in IT<br/>
+<!--
 - 🌱 Currently learning ...<br/>
 - 👯 I’m looking to collaborate on ...<br/>
 - ⚡ Fun fact: ...<br/>
-
-<!--
 - 🤔 I’m looking for help with ...<br/>
 - 💬 Ask me about ...<br/>
 - 📫 How to reach me: ...<br/>
