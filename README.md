@@ -1,4 +1,4 @@
-# Hi, I am Fataou!
+# 👋 Hi, I am Fataou!
 
 I am an IT Professional, specifically [An SRE and a Cloud DevSecOps Engineer](https://www.linkedin.com/in/fataou-maxwell-o/)
 - 🧑🏾‍💻 Software Engineer sharing my journey and learnings in tech.
