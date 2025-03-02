@@ -1,6 +1,5 @@
 # 👋 Hi, I am Fataou!
 
-I am an IT Professional, specifically 
 - 🧑🏾‍💻 SRE and a Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
 - 🎓 Studied Mathematics, Economics & Econometrics, and Information Technology (IT)
 - 🔭 Currently working on my PhD in IT<br/>
