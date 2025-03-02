@@ -102,11 +102,11 @@ To show top contributed repo:
 
 ### Education
 
-- [PhD in Information Technology (In progress)]()
-- [Master's degree in Mathematics)]()
-- [Master's degree in Economics - Econometrics]()
-- [Master's degree in Economics]()
-- [Bachelor's degree in Economics]()
+- [PhD in Information Technology (In progress)](https://github.com/fataou1maxwell)
+- [Master's degree in Mathematics)](https://github.com/fataou1maxwell)
+- [Master's degree in Economics - Econometrics](https://github.com/fataou1maxwell)
+- [Master's degree in Economics](https://github.com/fataou1maxwell)
+- [Bachelor's degree in Economics](https://github.com/fataou1maxwell)
 
   
 ### Professional Certifications</b>
