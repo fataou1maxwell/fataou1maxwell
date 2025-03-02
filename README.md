@@ -1,4 +1,4 @@
-# 👋 Hi, I am Fataou!
+# 🤝 Fataou Maxwell O.!
 
 - 🧑🏾‍💻 SRE and Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
 - 🎓 Studied Mathematics, Economics & Econometrics, and IT
