@@ -84,10 +84,8 @@ To show top contributed repo:
 
 ### 👨‍💻 SRE, Cloud, and DevOps/DevSecOps Projects
 
-- Project Domain Name 1</b>
-  - [Title of Project 1](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass)
-- Project Domain Name 2</b>
-  - [Title of Project 1 of Domain 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass) <b><i>(More details)</b></i>
+- [Project 1](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass)
+- [Project 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass)
 
 <!--
 ## 👨‍💻 Cybersecurity Projects
