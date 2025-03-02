@@ -73,15 +73,16 @@ To show top contributed repo:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fataou1maxwell&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-
 ---
+<!--
 [![](https://visitcount.itsvg.in/api?id=fataou1maxwell&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Projects
+# Projects
 
-### 👨‍💻 DevOps Projects
+## 👨‍💻 DevOps Projects
 
 - <b>Project Domain Name 1</b>
   - [Title of Project 1](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass)
