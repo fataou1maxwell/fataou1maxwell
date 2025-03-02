@@ -98,18 +98,18 @@ To show top contributed repo:
   - [Title of Project 1 of Domain 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass) <b><i>(More details)</b></i>
 -->
 
-## 📺 Education, Professional Certifications and Training
+# 📺 Education and Training
 
-#### Education
+### Education
 
-- PhD in Information Technology (In progress)
-- Master's degree in Mathematics
-- Master's degree in Economics - Econometrics
-- Master's degree in Economics
-- Bachelor's degree in Economics
+- [PhD in Information Technology (In progress)]()
+- [Master's degree in Mathematics)]()
+- [Master's degree in Economics - Econometrics]()
+- [Master's degree in Economics]()
+- [Bachelor's degree in Economics]()
 
   
-#### Professional Certifications</b>
+### Professional Certifications</b>
 
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cc056dd8-181e-4e94-8b68-b0afa7474432/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
@@ -117,7 +117,7 @@ To show top contributed repo:
   - [Cloud Digital Leader Certification, with Google Cloud](https://www.credly.com/badges/46c1d021-045e-4ae6-a47a-837b1e755ecd/public_url)
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/Maxwell-1336/33626559121F9A8C?sharingId=E890E6403FA2CECD)
 
-#### Professional Training & Courses</b>
+### Professional Training & Courses</b>
 
   - [Security and Privacy by Design Foundations, with IBM](https://www.credly.com/badges/c3c42acc-f755-440e-87ae-1c8ec1e076f5/public_url)
   - [Big Data Foundations, with IBM](https://www.credly.com/badges/2f1f7370-73d2-4c57-80e3-71f856374344/public_url)
