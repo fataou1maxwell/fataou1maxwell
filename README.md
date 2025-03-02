@@ -1,9 +1,13 @@
 # 🤝 Fataou Maxwell O.!
 
-- 🧑🏾‍💻 SRE and Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
+I am IT professional sharing my learning and my journey in IT. I studied Mathematics, Economics & Econometrics, and IT, and I am currently working with IBM as an SRE and Cloud DevSecOps Engineer while completing my PhD in IT.<br/>
+
+<!--
+- 🧑🏾‍💻 and Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
 - 🎓 Studied Mathematics, Economics & Econometrics, and IT
 - 🔭 Currently working with IBM and completing my PhD in IT<br/>
-<!--
+
+
 - 🌱 Currently learning ...<br/>
 - 👯 I’m looking to collaborate on ...<br/>
 - ⚡ Fun fact: ...<br/>
