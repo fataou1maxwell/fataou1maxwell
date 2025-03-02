@@ -1,15 +1,19 @@
 # 👋 Hi, I am Fataou!
 
-I am an IT Professional, specifically [An SRE and a Cloud DevSecOps Engineer](https://www.linkedin.com/in/fataou-maxwell-o/)
-- 🧑🏾‍💻 Software Engineer sharing my journey and learnings in tech<br/>
-- 🔭 I’m currently working on ...<br/>
-- 🌱 I’m currently learning ...<br/>
+I am an IT Professional, specifically 
+- 🧑🏾‍💻 SRE and a Cloud DevSecOps Engineer sharing my learning and my journey in IT<br/>
+- 🎓 Studied Mathematics, Economics & Econometrics, and Information Technology (IT)
+- 🔭 Currently working on my PhD in IT<br/>
+- 🌱 Currently learning ...<br/>
 - 👯 I’m looking to collaborate on ...<br/>
+- ⚡ Fun fact: ...<br/>
+
+<!--
 - 🤔 I’m looking for help with ...<br/>
 - 💬 Ask me about ...<br/>
 - 📫 How to reach me: ...<br/>
 - 😄 Pronouns: ...<br/>
-- ⚡ Fun fact: ...<br/>
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fataou-maxwell-o/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BestOpportunitiesToRise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxwell.fataou@gmail.com) 
 
