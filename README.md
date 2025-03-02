@@ -51,11 +51,14 @@ For more tech stack items and their Markdown code, go to the link: https://githu
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fataou1maxwell&count_private=true&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&hide_rank=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fataou1maxwell&theme=dark&hide_border=false)<br/>
 
 <!--
 To display the most used language, use this code: 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fataou1maxwell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+To display GitHub trophies, use this code:
+![](https://nirzak-streak-stats.vercel.app/?user=fataou1maxwell&theme=dark&hide_border=false)<br/>
+
 -->
 
 ## 🏆 GitHub Trophies
