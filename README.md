@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fataou! <br/><a href="https://www.linkedin.com/in/fataou-maxwell-o/">IT Professional: SRE & Cloud DevSecOps Engineer</a>
+<h2>Hi, I'm Fataou! <br/><a href="https://www.linkedin.com/in/fataou-maxwell-o/">IT Professional: SRE & Cloud DevSecOps Engineer</a>
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
