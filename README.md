@@ -49,7 +49,7 @@ For more tech stack items and their Markdown code, go to the link: https://githu
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 -->
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fataou1maxwell&count_private=true&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&hide_rank=false)<br/>
 
 <!--
@@ -64,7 +64,7 @@ To display your GitHub trophies, use this code:
 ![](https://github-profile-trophy.vercel.app/?username=fataou1maxwell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-### ✍️ Random Dev Quote
+### 📖 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
