@@ -105,7 +105,7 @@ To show top contributed repo:
 - [Bachelor's degree in Economics](https://github.com/fataou1maxwell)
 
   
-#### Professional Certifications</b>
+#### Professional Traning and Certifications</b>
 
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cc056dd8-181e-4e94-8b68-b0afa7474432/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/3080adfc-b399-448b-b1bd-858ad79607a1/public_url)
