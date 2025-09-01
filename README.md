@@ -1,4 +1,4 @@
-# Hi, I am Maxwell O.
+# Hi, I am Maxwell!
 
 I am an IT professional specialized in Site Reliability Engineering (SRE), DevSecOps Engineering, and Cloud Engineering. Here I am sharing my learning and my journey in IT. I studied Mathematics, Economics & Econometrics, and IT, and I am currently working with IBM as an SRE and Cloud DevSecOps Engineer while completing my PhD in IT.<br/>
 
