@@ -96,6 +96,7 @@ To show top contributed repo:
   - [Title of Project 1 of Domain 2](https://github.com/fataou1maxwell/aws-eks-kubernetes-masterclass) <b><i>(More details)</b></i>
 -->
 
+<!--
 ### 📺 Education and Training
 
 #### Education
@@ -118,7 +119,6 @@ To show top contributed repo:
 #### Professional Training & Courses</b>
 ([See my LinkedIn page here <-- ](https://www.linkedin.com/in/fataou-maxwell-o/))
 
-<!--
   - [Security and Privacy by Design Foundations, with IBM](https://www.credly.com/badges/c3c42acc-f755-440e-87ae-1c8ec1e076f5/public_url)
   - [Big Data Foundations, with IBM](https://www.credly.com/badges/2f1f7370-73d2-4c57-80e3-71f856374344/public_url)
   - [Data Science Methodologies, with IBM](https://www.credly.com/badges/b4811882-f87a-452b-ae48-d56357c9ea4e/public_url)
